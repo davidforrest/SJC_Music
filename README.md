@@ -11,7 +11,7 @@ Introductory
 
 In Class
 
-- [Current Songs for Vocal Improv](/resources/current_songs.html)
+- [Current Songs for Vocal Improv](/resources/player/current_songs.html)
 
 - [Recording Test](/resources/tonescapes_1.mp3)
 - [External Link Test](https://www.shapesmusic.com/current/)
