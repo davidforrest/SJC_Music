@@ -1,6 +1,6 @@
 # Freshman Music Resources
 
-
+Not much here yet... check back soon! 🎶
 
 ### Week 1
 
@@ -13,12 +13,9 @@ In Class
 
 - [Current Songs for Vocal Improv](/resources/player/current_songs.html)
 
-- [Recording Test](/resources/tonescapes_1.mp3)
-- [External Link Test](https://www.shapesmusic.com/current/)
+- [Euclid: Division of a Monochord - Preliminaries](/resources/Euclid_Monochord_Preliminaries.pdf)
 
 After Class
 
 - 
-
-Extras
 
