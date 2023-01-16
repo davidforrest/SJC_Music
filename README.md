@@ -12,10 +12,9 @@
 **In Class**
 
 - [Current Songs for Vocal Improv](/resources/player/current_songs.html)
-
 - [Euclid: Division of a Monochord - Preliminaries](/resources/Euclid_Monochord_Preliminaries.pdf)
-- [Note Name Timeline](resources/note_name_timeline_draft.pdf) (extremely rough draft)
 - [Video: Lyre Demonstration](https://www.youtube.com/watch?v=4UWBo0rsuHU&t=148s)
+- [Note Name Timeline](resources/note_name_timeline_draft.pdf) (extremely rough draft)
 - Euripides: Musical Fragment from Orestes (Manual p.19)
   - [Score Supplement](/resources/orestes_supplement.pdf)
   - [Recording: De Organographia: Music of the Ancient Greeks]()
