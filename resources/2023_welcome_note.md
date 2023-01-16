@@ -6,7 +6,7 @@ In my opinion, though, it is the very beginning of music study that's the most f
 
 Over the years, Freshman Music has built up a wealth of resources, activities, and traditions to introduce us to the study of music as a liberal art. This semester, we'll rediscover this tradition together, creatively, in the following ways:
 
-- First, we will sing together, sometimes paired with Mr. Carrey's class as a larger chorus, and sometimes in our smaller setting, as in seminar, finding our own voice and closely listening to others. 
+- First, we will sing together, sometimes paired with Mr. Carey's class as a larger chorus, and sometimes in our smaller setting, as in seminar, finding our own voice and closely listening to others. 
 - Second, we will explore some of the philosophy and theory of the Western musical system through originary texts and through a historical construction of the Western notation system. 
 - Third, we will explore what it means to fluently read and write in this notation system.
 - And finally, we will learn how to hear any note in any piece of music and have a visceral&mdash;and nameable&mdash;feeling of its unique position among other notes. This will transform your experience of analyzing music next year in Sophomore Music. 
