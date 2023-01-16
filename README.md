@@ -13,6 +13,8 @@
 
 - [Current Songs for Vocal Improv](/resources/player/current_songs.html)
 - [Euclid: Division of a Monochord - Preliminaries](/resources/Euclid_Monochord_Preliminaries.pdf)
+  - [An Online Tone Generator](https://www.szynalski.com/tone-generator/)
+
 - [Video: Lyre Demonstration](https://www.youtube.com/watch?v=4UWBo0rsuHU&t=148s)
 - [Note Name Timeline](resources/note_name_timeline_draft.pdf) (extremely rough draft)
 - Euripides: Musical Fragment from Orestes (Manual p.19)
@@ -28,7 +30,7 @@
 
 **Read for Next Week**
 
-- [Selected Euclid Props](/resources/euclid_props/selected_props.html)
+- [Selected Props from Euclid Division of a Monochord](/resources/euclid_props/selected_props.html)
 - [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
 - [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
