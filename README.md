@@ -29,7 +29,7 @@
 
 **Read for Next Week**
 
-- [Selected Euclid Props](/euclid_props/props.md)
+- [Selected Euclid Props](/resources/euclid_props/props.md)
 - [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
 - [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
