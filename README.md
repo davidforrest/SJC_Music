@@ -28,15 +28,18 @@
   - [Recording: De Organographia: Music of the Ancient Greeks](/resources/Delphic_Paean_Organographia.mp3)
   - [Recording: Empire Brass Quintet 😹](https://www.youtube.com/watch?v=3dQ-lg09uwk)
 
-**Read for Next Week**
-
-- [Selected Props from Euclid Division of a Monochord](/resources/euclid_props/selected_props.html)
-- [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
-- [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
-
 **Practice for Next Week**
 
 - [Tonescapes 1 (anchor, higher, lower)](/resources/tonescapes_1.mp3)
 - [Tonescapes 2 (anchor, two higher, two lower)](/resources/tonescapes_2.mp3)
+
+**Read for Next Week**
+
+- Boethius: excerpts from *On Music* and *On Arithmetic* (Manual pp. 49-54)
+  - Start from Section IV, "Concerning the Division of Mathemetics" (p. 49) and read through the end (p. 54). Section VIII tells the story of Pythagoras and the blacksmith, which is the origin myth of music theory.
+
+- [Selected Props from Euclid Division of a Monochord](/resources/euclid_props/selected_props.html)
+- [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
+- [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
 🎶
