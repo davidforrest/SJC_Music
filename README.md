@@ -4,10 +4,11 @@
 
 ### Week 1
 
-**Introductory**
+**Overview**
 
 - [Welcome Note](/resources/2023_welcome_note.md)
 - [FR Music Manual Detailed Contents](/resources/2014_manual_detailed_contents.pdf)
+- [FR Music At Home](/resources/FR_Music_At_Home_1.md)
 
 **In Class**
 
