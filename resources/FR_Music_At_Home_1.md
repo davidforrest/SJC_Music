@@ -2,7 +2,7 @@ Hi Freshman Music,
 
 I hope you enjoyed our first class! Here’s a list, in order of importance, of what to do before we meet again next week. You’ll find everything below either in the Freshman Music Manual, or on our [resources](https://davidforrest.github.io/FR_Music/) page. 
 
-\1. Practice your tonescapes daily. When you can do the [first](https://davidforrest.github.io/FR_Music/resources/tonescapes_1.mp3) without missing any, move on to the [second](https://davidforrest.github.io/FR_Music/resources/tonescapes_2.mp3).
+\1. Practice your tonescapes daily. Once you feel comfortable with the [first recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_1.mp3), move on to the [second recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_2.mp3).
 
 - Listen at least once (~5min) but not more than 3 times (~15m) in one sitting.
 - This is very much a self exploration, and your experience will be different from your classmates. Try to develop a greater sensitivity to what you hear, and to how you make sense of what you hear. Be creative about finding techniques that work for you.

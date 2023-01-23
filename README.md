@@ -44,3 +44,22 @@
 - [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
 🎶
+
+
+
+### Week 2
+
+**Resources**
+
+- [Tonescape Alone](/resources/tonescapes_0.mp3)
+  - [Anchor](https://szynalski.com/tone#D3,v0.75)
+  - [Hodie First Note](https://szynalski.com/tone#C3,v0.75)
+  - [Hodie Final](https://szynalski.com/tone#A2,v0.75)
+- [Gregorian Notation Examples](/resources/gregorian_notation_examples.pdf)
+- [Gregorian Staff Paper](gregorian_staff_paper.pdf) (3.8mm pen, 24+ lb. paper)
+- [Hodie Blank](/resources/hodie_blank.pdf) 
+  - See Manual p. 21- *Hodie Christus natus est*
+- [Tonescapes 3](/resources/tonescapes_3.mp3)
+  - [Inside a Tonescape](/resources/inside_a_tonescape.mp3)
+- [Reading Imagery 1](/resources/reading_imagery_1.pdf) (anchor, two higher, two lower)
+
