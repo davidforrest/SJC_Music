@@ -56,7 +56,7 @@
   - [Hodie First Note](https://szynalski.com/tone#C3,v0.75)
   - [Hodie Final](https://szynalski.com/tone#A2,v0.75)
 - [Gregorian Notation Examples](/resources/gregorian_notation_examples.pdf)
-- [Gregorian Staff Paper](gregorian_staff_paper.pdf) (3.8mm pen, 24+ lb. paper)
+- [Gregorian Staff Paper](/resources/gregorian_staff_paper.pdf) (3.8mm pen, 24+ lb. paper)
 - [Hodie Blank](/resources/hodie_blank.pdf) 
   - See Manual p. 21- *Hodie Christus natus est*
 - [Tonescapes 3](/resources/tonescapes_3.mp3)
