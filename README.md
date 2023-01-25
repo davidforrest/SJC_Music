@@ -77,6 +77,7 @@
   - [Inside a Tonescape](/resources/inside_a_tonescape.mp3) (simulation)
 - [Reading Imagery 1](/resources/reading_imagery_1.pdf) (anchor, two higher, two lower)
 - [Calligraphy Kit Contents](/resources/calligraphy_kit.md) (You can check the kit out from the Switchboard)
+- ...and in case you've never listened to [Enigma](https://www.youtube.com/watch?v=_4tJ2iQPkY4&t=128s)... 
 
 **EMP**
 
