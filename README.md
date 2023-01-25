@@ -1,7 +1,7 @@
 # Freshman Music Resources
 
 
-### Week 1
+## Week 1
 
 **Overview**
 
@@ -40,7 +40,8 @@
 
 
 
-### Week 2
+
+## Week 2
 
 **Overview**
 
