@@ -10,7 +10,7 @@
 - [FR Music Manual Detailed Contents](/resources/2014_manual_detailed_contents.pdf)
 - [FR Music At Home](/resources/FR_Music_At_Home_1.md)
 
-**In Class**
+**Resources**
 
 - [Current Songs for Vocal Improv](/resources/player/current_songs.html)
 - [Euclid: Division of a Monochord - Preliminaries](/resources/Euclid_Monochord_Preliminaries.pdf)
@@ -29,12 +29,8 @@
   - [Recording: De Organographia: Music of the Ancient Greeks](/resources/Delphic_Paean_Organographia.mp3)
   - [Recording: Empire Brass Quintet 😹](https://www.youtube.com/watch?v=3dQ-lg09uwk)
 
-**Practice for Next Week**
-
 - [Tonescapes 1 (anchor, higher, lower)](/resources/tonescapes_1.mp3)
 - [Tonescapes 2 (anchor, two higher, two lower)](/resources/tonescapes_2.mp3)
-
-**Read for Next Week**
 
 - Boethius: excerpts from *On Music* and *On Arithmetic* (Manual pp. 49-54)
   - Start from Section IV, "Concerning the Division of Mathemetics" (p. 49) and read through the end (p. 54). Section VIII tells the story of Pythagoras and the blacksmith, which is the origin myth of music theory.
@@ -43,11 +39,13 @@
 - [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
 - [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
-🎶
-
 
 
 ### Week 2
+
+**Overview**
+
+- [FR Music At Home](/resources/FR_Music_At_Home_2.md)
 
 **Resources**
 
@@ -82,3 +80,4 @@
 - [Reading Imagery 1](/resources/reading_imagery_1.pdf) (anchor, two higher, two lower)
 - [Calligraphy Kit Contents](/resources/calligraphy_kit.md) (You can check it out at the Switchboard)
 
+🎶
