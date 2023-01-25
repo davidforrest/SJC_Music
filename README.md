@@ -39,6 +39,7 @@
 - No Experimental Music Practicum this week
 
 
+
 ### Week 2
 
 **Overview**
