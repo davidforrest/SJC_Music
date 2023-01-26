@@ -4,19 +4,19 @@ Here’s what to do before our next meeting. Remember, you can check out the [Mu
 
 
 
-1. Practice your tonescapes daily for between 5 and 15 minutes. You can do the following in order, all in one sitting:
+**[1.]** Practice your tonescapes daily for between 5 and 15 minutes. You can do the following in order, all in one sitting:
 
 - If you haven’t already, jump in to the[ second recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_2.mp3) from last week.
 
 - Then try [this week’s recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_3.mp3), where you imagine the note first before it’s played.
 
-- - [Here’s](https://davidforrest.github.io/FR_Music/resources/inside_a_tonescape.mp3) the simulation of what it sounds like to imagine notes inside a tonescape.
+  - [Here’s](https://davidforrest.github.io/FR_Music/resources/inside_a_tonescape.mp3) the simulation of what it sounds like to imagine notes inside a tonescape.
 
-- Then turn on the [tonescape by itself](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), and try reading [these notes](https://davidforrest.github.io/FR_Music/resources/reading_imagery_1.pdf) (the last page of your handout) silently to yourself. Then turn the page upside-down and read it again. 
+- Then turn on the [tonescape by itself](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), and try reading [these notes](https://davidforrest.github.io/FR_Music/resources/reading_imagery_1.pdf) (the last page of your handout) silently to yourself. Then turn the page upside-down and read it again.
 
   
 
-2. Compose a Gregorian chant:
+**[2.]** Compose a Gregorian chant:
 
 ​	**To prepare:**
 
@@ -31,13 +31,13 @@ Here’s what to do before our next meeting. Remember, you can check out the [Mu
 
 - Choose a short (chant-length) text that you like, and break it into syllables. Some possibilities:
 
-- - A favorite poem or song lyrics
+  - A favorite poem or song lyrics
   - The St. John’s motto: *Facio liberos ex liberis libris libraque*
   - The text of one of the chants in the Manual
 
 - Choose a final (an anchor note) for your chant. First turn on the [Tonescape](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), then choose one of the following notes to be your final. Your chant should end on this note.
 
-- - [Option 1](https://szynalski.com/tone#G3,v0.75) (G)
+  - [Option 1](https://szynalski.com/tone#G3,v0.75) (G)
   - [Option 2](https://www.szynalski.com/tone-generator/#D3,v0.75) (D)
   - [Option 3](https://szynalski.com/tone#F3,v0.75) (F)
   - [Option 4](https://szynalski.com/tone#E3,v0.75) (E)
@@ -46,7 +46,7 @@ Here’s what to do before our next meeting. Remember, you can check out the [Mu
 
 - Start by singing along with the tonescape to compose your chant. Once it starts sounding good, notate what you sing.
 
-- - Consider the range of your chant. It could be as few as 5 notes (between the final and reciting tone), or as many as 9, if you use the full range from the space below the staff to the space above it. You’ll have to place your final on a line or space so that the range of your chant will fit on the staff. 
+  - Consider the range of your chant. It could be as few as 5 notes (between the final and reciting tone), or as many as 9, if you use the full range from the space below the staff to the space above it. You’ll have to place your final on a line or space so that the range of your chant will fit on the staff. 
 
 - Have fun, and by all means, feel free to go all out decorating your manuscript!
 
