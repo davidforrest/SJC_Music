@@ -3,11 +3,21 @@
 
 ## Week 1
 
-**Overview**
+**Introductory**
 
 - [Welcome Note](/resources/2023_welcome_note.md)
 - [FR Music Manual Detailed Contents](/resources/2014_manual_detailed_contents.pdf)
-- [FR Music At Home](/resources/FR_Music_At_Home_1.md)
+
+**Overview**
+
+- In Class
+  - Musical Intuitions & Vocal Improv
+  - Euclid: Making Music Rational
+  - Monochord Demo
+  - The Ancient Greek Musical System
+  - Ancient Greek Music Notation: *Orestes Fragment*
+  - Tonescapes
+- [At Home](/resources/FR_Music_At_Home_1.md)
 
 **Resources**
 
@@ -40,12 +50,16 @@
 
 
 
-
 ## Week 2
 
 **Overview**
 
-- [FR Music At Home](/resources/FR_Music_At_Home_2.md)
+- In Class
+  - Discuss Last Week's Listening & Reading
+  - The Musical Staff and Gregorian Notation
+  - Music Calligraphy: *Hodie Christus natus est*
+  - Tonescapes
+- [At Home](/resources/FR_Music_At_Home_2.md)
 
 **Resources**
 
@@ -85,5 +99,22 @@
 
 - Shapes Level 1 (A Shape)
 - Shapes Level 2 (Some Shapes)
+
+
+## Week 3
+
+**Overview**
+
+- In Class (TBD)
+- At Home (TBD)
+
+**Resources**
+
+- Chants by Monasterium Freshman Musica
+- [Chant: *Ut Queant Laxis*](/resources/ut_queant_laxis.pdf)
+  - [Recording: Blue Heron Ensemble](/resources/ut_queant_laxis.mp3)
+- [Monochord Note Spacing](/resources/monochord_note_spacing.pdf)
+- [Note Reading Exercise](/resources/SR_notes.pdf)
+- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 3rd, 7th, 6th)
 
 🎶
