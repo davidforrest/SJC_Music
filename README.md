@@ -105,8 +105,10 @@
 
 **Overview**
 
-- In Class (TBD)
-- At Home (TBD)
+- In Class
+  - [Three note naming systems](/resources/in_class_wk3.md)
+
+- At Home
 
 **Resources**
 
@@ -114,6 +116,11 @@
 - [Chant: *Ut Queant Laxis*](/resources/ut_queant_laxis.pdf)
   - [Recording: Blue Heron Ensemble](/resources/ut_queant_laxis.mp3)
 - [Monochord Note Spacing](/resources/monochord_note_spacing.pdf)
+- [Guido of Arezzo: *Prologus antiphonarii sui*](/resources/guido_staff_clefs.pdf) (excerpt on the invention of the musical staff and clefs)
+- [Guido of Arezzo: *Epistola de ignoto cantu*](/resources/guido_syllables.pdf) (excerpt on the syllable system derived from *Ut Queant Laxis*)
+- Mozart: *Ave Verum Corpus* (Manual pp. 70-73)
+  - [Recording: Orchestre National de France](https://www.youtube.com/watch?v=uduY8lh6B_Q) (with scrolling vocal and orchestral score)
+
 - [Note Reading Exercise](/resources/SR_notes.pdf)
 - [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 3rd, 7th, 6th)
 
