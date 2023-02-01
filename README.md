@@ -105,9 +105,7 @@
 
 **Overview**
 
-- In Class
-  - [Three note naming systems](/resources/in_class_wk3.md)
-
+- [In Class](/resources/in_class_wk3.md)
 - At Home
 
 **Resources**
