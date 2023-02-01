@@ -106,7 +106,7 @@
 **Overview**
 
 - [In Class](/resources/in_class_wk3.md)
-- At Home
+- [At Home](/resources/FR_Music_At_Home_3.md)
 
 **Resources**
 
