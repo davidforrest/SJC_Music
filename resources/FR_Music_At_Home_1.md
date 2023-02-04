@@ -22,7 +22,7 @@ I hope you enjoyed our first class! Here’s a list, in order of importance, of 
 
 **[3.]** Look over the following three selections linked on the resource page. 
 
-- [Selected Props from Euclid Division of a Monochord](https://davidforrest.github.io/FR_Music/resources/euclid_props/selected_props.html). This will give you an idea of how Euclid constructs the Ancient Greek musical system.
+- [Selected Props from Euclid Division of a Monochord](https://davidforrest.github.io/FR_Music/resources/euclid_props/selected_props.html). This will give you an idea of how Euclid constructs the Ancient Greek musical system. Keep in mind, the letters Euclid uses for his constructions are not meant to correspond to the names of musical notes.
 
 - [(pseudo) Odo of Cluny: Letters of the Monochord](https://davidforrest.github.io/FR_Music/resources/odo_monochord.pdf). The same system constructed differently in the Middle Ages, with letter names assigned to the notes. 
 

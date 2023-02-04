@@ -12,7 +12,7 @@
 
 - In Class
   - Musical Intuitions & Vocal Improv
-  - Euclid: Making Music Rational
+  - Euclid: Making Sound Rational
   - Monochord Demo
   - The Ancient Greek Musical System
   - Ancient Greek Music Notation: *Orestes Fragment*
@@ -41,6 +41,8 @@
 - Boethius: excerpts from *On Music* and *On Arithmetic* (Manual pp. 49-54)
   - Start from Section IV, "Concerning the Division of Mathemetics" (p. 49) and read through the end (p. 54). Section VIII tells the story of Pythagoras and the blacksmith, which is the origin myth of music theory.
 - [Selected Props from Euclid Division of a Monochord](/resources/euclid_props/selected_props.html)
+  - Note: the letters Euclid uses for his constructions are not meant to correspond to the names of musical notes. 
+
 - [(pseudo) Odo of Cluny: Letters of the Monochord](/resources/odo_monochord.pdf)
 - [Selection from *Measurement of Tones* by Annapolis tutor Peter Kalkavage](/resources/Kalkavage_measurement_selection.pdf)
 
@@ -69,13 +71,13 @@
   - [Hodie Final](https://szynalski.com/tone#A2,v0.75)
 - [Gregorian Notation Examples](/resources/gregorian_notation_examples.pdf)
 - [Blank Gregorian Staff Paper](/resources/gregorian_staff_paper.pdf) (for 3.8mm calligraphy pen, 24+ lb. paper)
-- [Blank Gregorian Staff with Hodie Text](/resources/hodie_blank.pdf) (See Manual p. 21 - *Hodie Christus natus est*)
+- [Blank Gregorian Staff with Hodie Text](/resources/hodie_blank.pdf) (See Manual p. 21: *Hodie Christus natus est*)
 - Some Recordings of Chants in the Manual (pp. 21-36)
   - *Hodie Christus natus est* (p. 21)
-    - [Choeur des moines de l'abbaye Saint-Martin de Ligugé](https://www.youtube.com/watch?v=Lkoav0thwkg) (scrolling Gregorian notation with bass note harmonization)
-    - [Notre Dame Nuns](https://youtu.be/vynCA91HDGM) (scrolling Gregorian notation)
     - [Joel Cohen, Boston Camerata](https://youtu.be/gPEPKJbAWEc) (no B natural)
+    - [Notre Dame Nuns](https://youtu.be/vynCA91HDGM) (scrolling Gregorian notation)
     - [Chanticleer](https://www.youtube.com/watch?v=Gwwh5NOgbgc)
+    - [Choeur des moines de l'abbaye Saint-Martin de Ligugé](https://www.youtube.com/watch?v=Lkoav0thwkg) (scrolling Gregorian notation with bass note harmonization)
   - *Kyrie Orbis factor* - ornamented (p. 29)
     - [Westminster Cathedral Choir](https://www.youtube.com/watch?v=SHx8PIjP34U)
   - *Pange Lingua* - Phrygian (p. 31)
@@ -120,6 +122,10 @@
   - [Recording: Orchestre National de France](https://www.youtube.com/watch?v=uduY8lh6B_Q) (with scrolling vocal and orchestral score)
 
 - [Note Reading Exercise](/resources/SR_notes.pdf)
-- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 3rd, 7th, 6th)
+- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 3rd, 7th, 6th, with octave equivalence)
+
+**EMP**
+
+- Shapes Level 3 (A Group of Shapes)
 
 🎶
