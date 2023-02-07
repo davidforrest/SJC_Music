@@ -10,13 +10,7 @@
 
 **Overview**
 
-- In Class
-  - Musical Intuitions & Vocal Improv
-  - Euclid: Making Sound Rational
-  - Monochord Demo
-  - The Ancient Greek Musical System
-  - Ancient Greek Music Notation: *Orestes Fragment*
-  - Tonescapes
+- [In Class](/resources/in_class_wk1.md)
 - [At Home](/resources/FR_Music_At_Home_1.md)
 
 **Resources**
@@ -56,11 +50,7 @@
 
 **Overview**
 
-- In Class
-  - Discuss Last Week's Listening & Reading
-  - The Musical Staff and Gregorian Notation
-  - Music Calligraphy: *Hodie Christus natus est*
-  - Tonescapes
+- [In Class](/resources/in_class_wk2.md)
 - [At Home](/resources/FR_Music_At_Home_2.md)
 
 **Resources**
@@ -75,8 +65,8 @@
 - Some Recordings of Chants in the Manual (pp. 21-36)
   - *Hodie Christus natus est* (p. 21)
     - [Joel Cohen, Boston Camerata](https://youtu.be/gPEPKJbAWEc) (no B natural)
-    - [Notre Dame Nuns](https://youtu.be/vynCA91HDGM) (scrolling Gregorian notation)
     - [Chanticleer](https://www.youtube.com/watch?v=Gwwh5NOgbgc)
+    - [Notre Dame Nuns](https://youtu.be/vynCA91HDGM) (scrolling Gregorian notation)
     - [Choeur des moines de l'abbaye Saint-Martin de Ligugé](https://www.youtube.com/watch?v=Lkoav0thwkg) (scrolling Gregorian notation with bass note harmonization)
   - *Kyrie Orbis factor* - ornamented (p. 29)
     - [Westminster Cathedral Choir](https://www.youtube.com/watch?v=SHx8PIjP34U)
@@ -103,6 +93,7 @@
 - Shapes Level 2 (Some Shapes)
 
 
+
 ## Week 3
 
 **Overview**
@@ -112,7 +103,7 @@
 
 **Resources**
 
-- Chants by Monasterium Freshman Musica
+- [Anonymous Chants by Monasterium Freshman Musica](/resources/2023_spring_chants_anon.pdf)
 - [Chant: *Ut Queant Laxis*](/resources/ut_queant_laxis.pdf)
   - [Recording: Blue Heron Ensemble](/resources/ut_queant_laxis.mp3)
 - [Monochord Note Spacing](/resources/monochord_note_spacing.pdf)
@@ -127,5 +118,23 @@
 **EMP**
 
 - Shapes Level 3 (A Group of Shapes)
+
+
+
+## Week 4
+
+**Overview**
+
+- In Class
+- At Home
+
+**Resources**
+
+- Ave Verum Corpus
+- 8-line Staff Paper
+
+**EMP**
+
+- Shapes Level 4 (Shape Fingerings)
 
 🎶

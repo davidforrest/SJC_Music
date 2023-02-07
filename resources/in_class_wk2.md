@@ -1,0 +1,4 @@
+- Discuss Last Week's Listening & Reading
+- The Musical Staff and Gregorian Notation
+- Music Calligraphy: *Hodie Christus natus est*
+- Tonescapes
