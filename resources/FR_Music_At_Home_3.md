@@ -4,7 +4,7 @@ Here’s what to do before we meet next:
 
 [1.] Listen to your tonescapes daily for between 5 and 15 minutes. 
 
-- Start with [this week’s recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_4.mp3), where the names have changed from “one higher, two higher, one lower, two lower” to “second, third, seventh, and sixth.” Since we also now have notes in different octaves, it may help at first to bring a note into your comfortable vocal range by humming it, then hum the notes leading back to the anchor to hear the distance and direction. 
+- Start with [this week’s recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_4.mp3), where the names have changed from “one higher" and "one lower” to “second" and "seventh.” You can also [try a version](https://davidforrest.github.io/FR_Music/resources/tonescapes_5.mp3) that adds the "third" and "sixth." Since each note can now be in different octaves, it may help at first to bring a note into your comfortable vocal range by humming it, then hum the notes leading back to the anchor to hear the distance and direction.
 - Then go on to [last week’s recording](https://davidforrest.github.io/FR_Music/resources/tonescapes_3.mp3), where you imagine the notes first before they’re played.
 - As an extra, you can listen to the [tonescape by itself](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), let your mind wander, and pay attention to what you hear. Can you make yourself hear any notes or melodies inside the tonescape?
 

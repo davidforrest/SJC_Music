@@ -1,4 +1,4 @@
-# Freshman Music Resources
+# Freshman Music Spring 2023
 
 
 ## Week 1
@@ -90,7 +90,7 @@
 **EMP**
 
 - Shapes Level 1 (A Shape)
-- Shapes Level 2 (Some Shapes)
+- Shapes Level 2 (Different Shapes)
 
 
 
@@ -113,7 +113,8 @@
   - [Recording: Orchestre National de France](https://www.youtube.com/watch?v=uduY8lh6B_Q) (with scrolling vocal and orchestral score)
 
 - [Note Reading Exercise](/resources/SR_notes.pdf)
-- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 3rd, 7th, 6th, with octave equivalence)
+- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 7th, with different octaves)
+- [Tonescapes Exercise 5](/resources/tonescapes_5.mp3) (anchor, 2nd, 3rd, 7th, 6th, with different octaves)
 
 **EMP**
 
@@ -126,12 +127,15 @@
 **Overview**
 
 - In Class
-- At Home
+- [At Home](/resources/FR_Music_At_Home_4.md)
 
 **Resources**
 
-- Ave Verum Corpus
-- 8-line Staff Paper
+- Mozart: *Ave Verum Corpus* (Manual pp. 70-73)
+  - [Recording: Orchestre National de France](https://www.youtube.com/watch?v=uduY8lh6B_Q) (with scrolling vocal and orchestral score)
+- [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 7th, with different octaves)
+- [Tonescapes Exercise 5](/resources/tonescapes_5.mp3) (anchor, 2nd, 3rd, 7th, 6th, with different octaves)
+- [Note Reading Exercise](/resources/SR_notes.pdf)
 
 **EMP**
 
