@@ -1,7 +1,20 @@
 # Freshman Music Spring 2023
 
+**Quick Links**
 
-## Week 1
+[Week 1 - Ancient Greek Music](#week-1-ancient-greek-music)
+
+[Week 2 - Gregorian Chant](#week-2-gregorian-chant)
+
+[Week 3 - Modern Notation](#week-3-modern-notation)
+
+[Week 4 - Ave Verum Corpus](#week-4-ave-verum-corpus)
+
+
+
+---
+
+## Week 1 - Ancient Greek Music
 
 **Introductory**
 
@@ -11,12 +24,12 @@
 **Overview**
 
 - In Class
-  - Musical Intuitions & Vocal Improv
-  - Euclid: Making Sound Rational
-  - Monochord Demo
-  - The Ancient Greek Musical System
-  - Ancient Greek Music Notation: *Orestes Fragment*
-  - Tonescapes
+  - Musical Intuitions & Vocal Improv (~15m)
+  - Euclid: Making Sound Rational (~30m)
+  - Monochord Demo (~7min)
+  - The Ancient Greek Musical System (~15min)
+  - Ancient Greek Music Notation: *Orestes Fragment* (~7m)
+  - Tonescapes (~15m)
 
 - At Home
   - [Assignments Email](/resources/FR_Music_At_Home_1.md)
@@ -54,15 +67,15 @@
 
 
 
-## Week 2
+## Week 2 - Gregorian Chant
 
 **Overview**
 
 - In Class
-  - Discuss Last Week's Listening & Reading
-  - The Musical Staff and Gregorian Notation
-  - Music Calligraphy: *Hodie Christus natus est*
-  - Tonescapes
+  - Discuss Last Week's Listening & Reading (~20m)
+  - The Musical Staff and Gregorian Notation (~15m)
+  - Music Calligraphy: *Hodie Christus natus est* (~35m)
+  - Tonescapes (~20m)
 
 - At Home
   - [Assignments Email](/resources/FR_Music_At_Home_2.md)
@@ -109,14 +122,15 @@
 
 
 
-## Week 3
+## Week 3 - Modern Notation
 
 **Overview**
 
 - In Class
-  - [Three Note Naming Systems](/resources/three_naming_systems.md)
-  - [Tonescapes - Switch To Number Names](/resources/switch_to_number_names.html)
-  - Note Reading Exercise
+  - [Three Note Naming Systems](/resources/three_naming_systems.md) (~45m)
+  - Monochord Transposition Activity (~20m)
+  - [Tonescapes - Switch To Number Names](/resources/switch_to_number_names.html) (~15m)
+  - Note Reading Exercise (~10m)
 
 - At Home
   - [Assignments Email](/resources/FR_Music_At_Home_3.md)
@@ -143,14 +157,14 @@
 
 
 
-## Week 4
+## Week 4 - Ave Verum Corpus
 
 **Overview**
 
 - In Class
-  - Practice Note Reading Exercise
-  - Practice Tonescapes (Anchor, 2nd, 3rd, 7th, 6th)
-  - Ave Verum Corpus Orientation
+  - Practice Note Reading Exercise (~30m)
+  - Practice Tonescapes - Switch To Number Names (~30m)
+  - Ave Verum Corpus Orientation (~30m)
 
 - At Home
   - [Assignments Email](/resources/FR_Music_At_Home_4.md)
