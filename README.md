@@ -10,8 +10,16 @@
 
 **Overview**
 
-- [In Class](/resources/in_class_wk1.md)
-- [At Home](/resources/FR_Music_At_Home_1.md)
+- In Class
+  - Musical Intuitions & Vocal Improv
+  - Euclid: Making Sound Rational
+  - Monochord Demo
+  - The Ancient Greek Musical System
+  - Ancient Greek Music Notation: *Orestes Fragment*
+  - Tonescapes
+
+- At Home
+  - [Assignments Email](/resources/FR_Music_At_Home_1.md)
 
 **Resources**
 
@@ -50,8 +58,15 @@
 
 **Overview**
 
-- [In Class](/resources/in_class_wk2.md)
-- [At Home](/resources/FR_Music_At_Home_2.md)
+- In Class
+  - Discuss Last Week's Listening & Reading
+  - The Musical Staff and Gregorian Notation
+  - Music Calligraphy: *Hodie Christus natus est*
+  - Tonescapes
+
+- At Home
+  - [Assignments Email](/resources/FR_Music_At_Home_2.md)
+
 
 **Resources**
 
@@ -98,8 +113,14 @@
 
 **Overview**
 
-- [In Class](/resources/in_class_wk3.md)
-- [At Home](/resources/FR_Music_At_Home_3.md)
+- In Class
+  - [Three Note Naming Systems](/resources/three_naming_systems.md)
+  - [Tonescapes - Switch To Number Names](/resources/switch_to_number_names.html)
+  - Note Reading Exercise
+
+- At Home
+  - [Assignments Email](/resources/FR_Music_At_Home_3.md)
+
 
 **Resources**
 
@@ -127,7 +148,13 @@
 **Overview**
 
 - In Class
-- [At Home](/resources/FR_Music_At_Home_4.md)
+  - Practice Note Reading Exercise
+  - Practice Tonescapes (Anchor, 2nd, 3rd, 7th, 6th)
+  - Ave Verum Corpus Orientation
+
+- At Home
+  - [Assignments Email](/resources/FR_Music_At_Home_4.md)
+
 
 **Resources**
 
