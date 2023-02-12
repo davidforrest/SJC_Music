@@ -2,13 +2,13 @@
 
 **Quick Links**
 
-[Week 1 - Ancient Greek Music](#week-1-ancient-greek-music)
+[Week 1 - Ancient Greek Music](#week-1---ancient-greek-music)
 
-[Week 2 - Gregorian Chant](#week-2-gregorian-chant)
+[Week 2 - Gregorian Chant](#week-2---gregorian-chant)
 
-[Week 3 - Modern Notation](#week-3-modern-notation)
+[Week 3 - Modern Notation](#week-3---modern-notation)
 
-[Week 4 - Ave Verum Corpus](#week-4-ave-verum-corpus)
+[Week 4 - Ave Verum Corpus](#week-4---ave-verum-corpus)
 
 
 
