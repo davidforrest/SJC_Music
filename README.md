@@ -5,14 +5,13 @@
 **Jump To**
 
 - [Week 1 - Ancient Greek Music](#week-1---ancient-greek-music)
-
 - [Week 2 - Gregorian Chant](#week-2---gregorian-chant)
-
 - [Week 3 - Modern Notation](#week-3---modern-notation)
-
 - [Week 4 - Ave Verum Corpus](#week-4---ave-verum-corpus)
-
+- [Week 5 - Ave Verum Corpus (cont'd)](#week-4---ave-verum-corpus--cont--d)
+- [Week 6 - Modes](#week-6---modes)
   
+
 
 ---
 
@@ -123,6 +122,7 @@
 
 - Shapes Level 1 (A Shape)
 - Shapes Level 2 (Different Shapes)
+- Commentary: What Is a Shape?
 
 
 
@@ -158,6 +158,7 @@
 **EMP**
 
 - Shapes Level 3 (A Group of Shapes)
+- Commentary: Is This the Circle of Fifths?
 
 
 
@@ -178,6 +179,10 @@
 
 - Mozart: *Ave Verum Corpus* (Manual pp. 70-73)
   - [Recording: Orchestre National de France](https://www.youtube.com/watch?v=uduY8lh6B_Q) (with scrolling vocal and orchestral score)
+  - [Recording: Soprano part alone](https://www.youtube.com/watch?v=NUB7j_flem0)
+  - [Recording: Alto part alone](https://www.youtube.com/watch?v=_ch9EZL3vsA)
+  - [Recording: Tenor part alone](https://www.youtube.com/watch?v=OapQoxQbliE)
+  - [Recording: Bass part alone](https://www.youtube.com/watch?v=W8ja9_9J3oA) 
 - [Tonescapes Exercise 4](/resources/tonescapes_4.mp3) (anchor, 2nd, 7th, with different octaves)
 - [Tonescapes Exercise 5](/resources/tonescapes_5.mp3) (anchor, 2nd, 3rd, 7th, 6th, with different octaves)
 - [Note Reading Exercise](/resources/SR_notes.pdf)
@@ -185,5 +190,36 @@
 **EMP**
 
 - Shapes Level 4 (Shape Fingerings)
+- Commentary: The Centered Keyboard
+
+
+
+## Week 5 - Ave Verum Corpus (cont'd)
+
+**Overview**
+
+- In Class
+  - Sing with Mr. Carey's class (~90m)
+- At Home
+  - [Assignments Email](/resources/FR_Music_At_Home_5.md)
+
+**Resources**
+
+- Mozart: *Ave Verum Corpus* (Manual pp. 70-73, see Week 4)
+
+**EMP**
+
+- Shapes Level 5 (The Anchor Note)
+- Commentary: What is the Anchor?
+
+
+
+## Week 6 - Modes
+
+**Overview**
+
+**Resources**
+
+**EMP**
 
 🎶

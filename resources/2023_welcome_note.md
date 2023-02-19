@@ -1,6 +1,6 @@
 Dear Freshman Music,
 
-i'm very excited to be doing this course with you. We're in a unique position this semester to experiment with ideas that could help shape the way this class works going forward. Freshman Music began as Freshman Chorus, and was an opportunity for the whole Freshman class to sing together once a week. It has since evolved into a tutorial-sized class that, in addition to singing, is an introduction to the study of music as a liberal art, and a preparation for more in-depth work next year in Sophomore Music.
+I'm very excited to be doing this course with you. We're in a unique position this semester to experiment with ideas that could help shape the way this class works going forward. Freshman Music began as Freshman Chorus, and was an opportunity for the whole Freshman class to sing together once a week. It has since evolved into a tutorial-sized class that, in addition to singing, is an introduction to the study of music as a liberal art, and a preparation for more in-depth work next year in Sophomore Music.
 
 In my opinion, though, it is the very beginning of music study that's the most fascinating. The simplest matters that we tend to take for granted can show themselves to be endlessly deep and mysterious, as we've no doubt discovered in our other tutorials, and in seminar, any time we attempt to inquire into the elements of things. It is also through beginner music study that we first attempt to turn a mirror to ourselves and the intuitions that arise from our own vast exposure to music throughout our lives.
 
