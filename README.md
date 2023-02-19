@@ -8,7 +8,7 @@
 - [Week 2 - Gregorian Chant](#week-2---gregorian-chant)
 - [Week 3 - Modern Notation](#week-3---modern-notation)
 - [Week 4 - Ave Verum Corpus](#week-4---ave-verum-corpus)
-- [Week 5 - Ave Verum Corpus (cont'd)](#week-4---ave-verum-corpus--cont--d)
+- [Week 5 - Ave Verum Corpus (cont'd)](#week-5---ave-verum-corpus-contd)
 - [Week 6 - Modes](#week-6---modes)
   
 
