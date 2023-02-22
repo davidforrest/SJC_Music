@@ -218,8 +218,24 @@
 
 **Overview**
 
+- In Class
+  - Practice Note Reading Exercise (~15m)
+  - Modes Intro (~45m)
+  - Rhythmic Note Values (~10m)
+  - Begin copying Bach: *Befiehl du deine Wege* (~20m)
+- At Home
+  - Assignments Email
+
 **Resources**
 
+- [Tonescapes: Shuffle Three Modes](/resources/three_modes.html)
+- Bach: *Befiehl du deine Wege* (Manual p.68)
+  - [Recording: Nikolaus Harnoncourt](https://www.youtube.com/watch?v=oU7OR3qoIyQ)
+- [Blank four part staff paper (with dots)](/resources/four_part_staff_paper.pdf)
+  - [Bach score copying example](/resources/bach_befiehl_starter.pdf)
+
 **EMP**
+
+- Shapes Level 6 (Playing With the Anchor)
 
 🎶
