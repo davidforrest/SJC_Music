@@ -29,10 +29,10 @@
 - In Class
   - Musical Intuitions & Vocal Improv (~15m)
   - Euclid: Making Sound Rational (~30m)
-  - Monochord Demo (~7min)
-  - The Ancient Greek Musical System (~15min)
+  - Monochord Demo (~7m)
+  - The Ancient Greek Musical System (~15m)
   - Ancient Greek Music Notation: *Orestes Fragment* (~7m)
-  - Tonescapes (~15m)
+  - Introduce Tonescapes (~15m)
 
 - At Home
   - [Assignments Email](/resources/FR_Music_At_Home_1.md)
@@ -167,8 +167,8 @@
 **Overview**
 
 - In Class
-  - Practice Note Reading Exercise (~30m)
-  - Practice Tonescapes - Switch To Number Names (~30m)
+  - Practice Note Reading Exercise Together (~30m)
+  - Practice Tonescapes Together (~30m)
   - Ave Verum Corpus Orientation (~30m)
 
 - At Home
@@ -224,7 +224,7 @@
   - Rhythmic Note Values (~10m)
   - Begin copying Bach: *Befiehl du deine Wege* (~20m)
 - At Home
-  - Assignments Email
+  - [Assignments Email](/resources/FR_Music_At_Home_6.md)
 
 **Resources**
 
