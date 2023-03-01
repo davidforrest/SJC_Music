@@ -10,7 +10,7 @@
 - [Week 4 - Ave Verum Corpus](#week-4---ave-verum-corpus)
 - [Week 5 - Ave Verum Corpus (cont'd)](#week-5---ave-verum-corpus-contd)
 - [Week 6 - Modes](#week-6---modes)
-  
+- [Week 7 - Befiehl du deine Wege](#week-7---befiehl-du-deine-wege)
 
 
 ---
@@ -237,5 +237,31 @@
 **EMP**
 
 - Shapes Level 6 (Playing With the Anchor)
+
+
+
+## Week 7 - Befiehl du deine Wege
+
+**Overview**
+
+- In Class
+  - Practice Note Reading Exercise (~15m)
+
+  - Tonescapes - Light / Heavy Tension Names (~15m)
+
+  - Sing with Mr. Carey's class (~60m)
+
+- At Home
+  - Assignments Email
+
+
+**Resources**
+
+- [Tonescapes: Light and Heavy 3rd and 6th](/resources/light_heavy_3rd_6th.html)
+- Bach: *Befiehl du deine Wege* (Manual p.68, see Week 6)
+
+**EMP**
+
+- No EMP this week (All Faculty Seminar Day)
 
 🎶
