@@ -246,13 +246,11 @@
 
 - In Class
   - Practice Note Reading Exercise (~15m)
-
-  - Tonescapes - Light / Heavy Tension Names (~15m)
-
+  - Tonescapes - Light and Heavy 3rd and 6th (~15m)
   - Sing with Mr. Carey's class (~60m)
 
 - At Home
-  - Assignments Email
+  - [Assignments Email](/resources/FR_Music_At_Home_7.md)
 
 
 **Resources**
