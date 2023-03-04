@@ -256,7 +256,9 @@
 **Resources**
 
 - [Tonescapes: Light and Heavy 3rd and 6th](/resources/light_heavy_3rd_6th.html)
+- [An Online Metronome](https://metronom.us/en/)
 - Bach: *Befiehl du deine Wege* (Manual p.68, see Week 6)
+- [Score copying example filled in](/resources/bach_befiehl_filled.pdf)
 
 **EMP**
 
