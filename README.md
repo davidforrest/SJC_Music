@@ -27,7 +27,7 @@
 **Overview**
 
 - In Class
-  - Musical Intuitions & Vocal Improv (~15m)
+  - [Musical Intuitions & Vocal Improv](/resources/intuitions_and_vocal_improv.md) (~15m)
   - Euclid: Making Sound Rational (~30m)
   - Monochord Demo (~7m)
   - The Ancient Greek Musical System (~15m)
