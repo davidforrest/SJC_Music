@@ -40,22 +40,15 @@
 
 **Location**
 
+[euclid_making_sound_rational.md](resources/euclid_making_sound_rational.md)
+
 **References**
 
 - 2023 Spring Wk1
 
 **Notes**
 
-- students at st. john's have a unique affection for euclid
-- euclid wrote a music theory text
-- it usually is presented as purely mathematical, but there are some interesting philosophical points it raises beyond the math
-- for one, it shows the difference between voice and an instrument. you can "tighten" and "loosen" tones to reach the properly tuned pitch with your voice
-- [Pitch matching, voice "tuning" activity]
-- but there's no way to go further into the rational account—you need a tool for that, an instrument. And this is the first encounter with theory.
-- this text explicitly invokes the physical, sounding world, and then makes an account of sound as being made of "parts" in order to get to magnitudes, which introduces beautifully and subtly the separation of theory from music. the concepts it begins to build around music have the same relation to the world as the diagrams in euclid's elements—they are of a different sort than anything that can exist in the physical world—they are generalized and abstracted from the physical, and yet especially in the case of music, they're derived sounding realities and also capable of being the source of sounding realities. 
-- that relationship between the concept and music is so significant, and is introduced here. and it's the transition from the sound to the "part" that's the interface here.
-- analogy to lab: not the building blocks of music, but creative tools we lay over an infinite and mysterious world. tools we can work with. And: philosophical ideas embedded in symbols.
-- it's also starkly apparent from the transition from the preliminaries to the first proposition. the propositions entirely depart from the considerations of sound and motion in the preliminaries. they will give us the equality of multiple ratios, but it's left to us to invoke the musical significance of octave equivalence.
+- 
 
 
 
@@ -69,6 +62,8 @@
 
 **Notes**
 
+- we can't do Euclid with just our voice. Brings up the need for an instrument. The relationship of an instrument to a concept.
+- also an opportunity to talk briefly about the harmonic series, and the meaning of consonance and dissonance.
 - two strings as a ratio: bottom as the fundamental, top as the interval.
   - 2:1 the fundamental is divided by 2 parts, the interval is 1 of those parts
   - 3:2 the fundamental is divided by 3 parts, the interval is 2 of those parts
@@ -87,6 +82,7 @@
 
 **Notes**
 
+- Look at this in combination with the next section on the Orestes fragment
 - you need a clear construction of the ancient greek system
 - random, intuitive tetrachords with moveable notes
 - conjunct and disjunct tetrachords
@@ -120,6 +116,8 @@
 
 **Notes**
 
+- Look at this in combination with the previous section on the Ancient Greek System
+
 
 
 ### Introduce Tonescapes
@@ -132,6 +130,7 @@
 
 **Notes**
 
+- Shapes Lessons 13 & 15
 - melting the diatonic system, or putting it in a big room. or a soup.
 - and interestingly, a way to put a rational layer on the voice.
 - which we will gradually internalize. that's right, logos is a kind of instrumental layer we're embedding in our voice, intuition, ears, body. that's so strange.
@@ -189,6 +188,18 @@
 
 
 
+### Tonescapes Wk 2 (Active)
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Shapes Lessons 14 & 16
+
+
+
 ### Chant Composition Practicum (at home)
 
 **Location**
@@ -207,6 +218,7 @@
 
 **References**
 
+- 23.2.8 Ms Fargo notes (wk3).jpg
 - 2023 Spring Wk3
 
 **Notes**
@@ -312,6 +324,30 @@
 - 2023 Spring Wk4
 
 **Notes**
+
+
+
+### (Wk 8 - Befiehl Analysis / Anchors / Incidentals)
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Monday class
+
+
+
+### (Wk 8 - A.I. Discussion: Humans and Instruments)
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Tuesday class
 
 
 
