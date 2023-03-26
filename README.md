@@ -11,6 +11,9 @@
 - [Week 5 - Ave Verum Corpus (cont'd)](#week-5---ave-verum-corpus-contd)
 - [Week 6 - Modes](#week-6---modes)
 - [Week 7 - Befiehl du deine Wege](#week-7---befiehl-du-deine-wege)
+- [Week 8 - Tensions](#week-8---tensions)
+- (Spring Break)
+- [Week 9 - Herzliebster Jesu](#week-9---herzliebster-jesu)
 
 
 ---
@@ -114,7 +117,8 @@
   - [Final Option 4](https://szynalski.com/tone#E3,v0.75) (E)
 - [Tonescapes  Exercise 3](/resources/tonescapes_3.mp3) (imagine the note first)
   - [Inside a Tonescape](/resources/inside_a_tonescape.mp3) (simulation)
-- [Reading Imagery 1](/resources/reading_imagery_1.pdf) (anchor, two higher, two lower)
+- [Reading Imagery 1](/resources/reading_imagery_1.pdf) (stepwise: anchor, two higher, two lower)
+- [Reading Imagery 2](/resources/reading_imagery_2.pdf) (random: anchor, two higher, two lower)
 - [Calligraphy Kit Contents](/resources/calligraphy_kit.md) (You can check the kit out from the Switchboard)
 - ...and in case you've never listened to [Enigma](https://www.youtube.com/watch?v=_4tJ2iQPkY4&t=128s)... 
 
@@ -237,6 +241,7 @@
 **EMP**
 
 - Shapes Level 6 (Playing With the Anchor)
+- Commentary: Where Does Structure Come From?
 
 
 
@@ -263,5 +268,54 @@
 **EMP**
 
 - No EMP this week (All Faculty Seminar Day)
+
+
+
+## Week 8 - Tensions
+
+**Overview**
+
+- In Class
+  - Tonescapes - Add the 4th and 5th (~30m)
+  - Practice Note Reading w/Metronome (~15m)
+  - Open Discussion (~45m)
+- At Home
+  - Enjoy the Break!
+
+
+**Resources**
+
+- [Reading Imagery 3](/resources/reading_imagery_3.pdf) (stepwise: all tensions)
+- [Reading Imagery 4](/resources/reading_imagery_4.pdf) (random: all tensions)
+
+**EMP**
+
+- Shapes Level 7 (Bass Notes)
+- Commentary: Key and Chord Levels
+
+
+
+## Week 9 - Herzliebster Jesu
+
+**Overview**
+
+- In Class
+  - Parse Score for Bach: *Herzliebster Jesu* (~60m)
+  - Review Tensions in Modes (~15m)
+  - Practice Note Reading w/Metronome (~15m)
+  
+- At Home
+  - Learn parts for *Herzliebster Jesu*
+  - Practice Tonescapes
+  - Practice Note Reading
+
+**Resources**
+
+- Bach: *Herzliebster Jesu* (Manual p.69)
+- Tonescapes: All Tensions in 3 Modes
+
+**EMP**
+
+- Shapes Level 8 (Matching Shapes)
 
 🎶
