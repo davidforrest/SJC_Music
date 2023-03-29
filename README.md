@@ -12,7 +12,7 @@
 - [Week 6 - Modes](#week-6---modes)
 - [Week 7 - Befiehl du deine Wege](#week-7---befiehl-du-deine-wege)
 - [Week 8 - Tensions](#week-8---tensions)
-- (Spring Break)
+-  Spring Break
 - [Week 9 - Herzliebster Jesu](#week-9---herzliebster-jesu)
 
 
@@ -300,19 +300,17 @@
 **Overview**
 
 - In Class
-  - Parse Score for Bach: *Herzliebster Jesu* (~60m)
-  - Review Tensions in Modes (~15m)
-  - Practice Note Reading w/Metronome (~15m)
-  
+  - Sing Three Modes (~10m)
+  - Practice Note Reading w/Metronome (~10m)
+  - Parse Score for Bach: *Herzliebster Jesu* (~70m)
 - At Home
-  - Learn parts for *Herzliebster Jesu*
-  - Practice Tonescapes
-  - Practice Note Reading
+  - [Assignments Email](/resources/FR_Music_At_Home_9.md)
 
 **Resources**
 
 - Bach: *Herzliebster Jesu* (Manual p.69)
-- Tonescapes: All Tensions in 3 Modes
+- [Recording: *Herzliebster Jesu* (individual parts)](/resources/bach_hj.html)
+- [Tonescapes: All Tensions in 3 Modes](/resources/add_4th_5th.html)
 
 **EMP**
 

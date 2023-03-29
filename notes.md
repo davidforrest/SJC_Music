@@ -188,18 +188,6 @@
 
 
 
-### Tonescapes Wk 2 (Active)
-
-**Location**
-
-**References**
-
-**Notes**
-
-- Shapes Lessons 14 & 16
-
-
-
 ### Chant Composition Practicum (at home)
 
 **Location**
@@ -209,6 +197,18 @@
 - 2023 Spring Wk2
 
 **Notes**
+
+
+
+### Tonescapes Wk 2 (Active)
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Shapes Lessons 14 & 16
 
 
 
