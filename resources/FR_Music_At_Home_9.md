@@ -4,9 +4,9 @@ Welcome back! Next week we'll get together with Mr. Carey's class to sing *Herzl
 
 
 
-**1. Learn Your Part for *Herzliebster Jesu***
+**1. Learn Your Part**
 
-[Here's a page](https://davidforrest.github.io/FR_Music/resources/bach_hj.html) where you can hear each part of the chorale, individually and together with the other parts. Use this recording along with the score on p. 69 of the Manual to become familiar with your part.
+[Here's a page](https://davidforrest.github.io/FR_Music/resources/bach_hj.html) where you can hear each part of *Herzliebster Jesu*, individually and together with the other parts. Use this recording along with the score on p. 69 of the Manual to become familiar with your part.
 
 
 
