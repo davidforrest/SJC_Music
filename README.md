@@ -14,6 +14,9 @@
 - [Week 8 - Tensions](#week-8---tensions)
 -  Spring Break
 - [Week 9 - Herzliebster Jesu](#week-9---herzliebster-jesu)
+- [Week 10 - Herzliebster Jesu (cont'd)](#week-10---herzliebster-jesu-contd)
+- [Week 11 - Modes (cont'd)](#week-11---modes-contd)
+- [Week 12 - Sicut Cervus](#week-12---sicut-cervus)
 
 
 ---
@@ -315,5 +318,72 @@
 **EMP**
 
 - Shapes Level 8 (Matching Shapes)
+
+
+
+## Week 10 - Herzliebster Jesu (cont'd)
+
+**Overview**
+
+- In Class
+  - Sing w/Mr. Carey's class
+- At Home
+  - 
+
+**Resources**
+
+- Bach: *Herzliebster Jesu* (Manual p.69)
+- [Recording: *Herzliebster Jesu* (individual parts)](/resources/bach_hj.html)
+- [Tonescapes: All Tensions in 3 Modes](/resources/add_4th_5th.html)
+
+**EMP**
+
+- Shapes Level 10 (Changes)
+
+
+
+## Week 11 - Modes (cont'd)
+
+**Overview**
+
+- In Class
+  - Introduce Double LIght/Heavy (Major and Phrygian) modes (active)
+  - note reading, 3 ticks at 60BPM, no pauses on skipped notes
+  - Hear & sing changing modes in Herzliebster Jesu
+  - Mode notes (positions in the diatonic order) & incidentals
+  - Get oriented in Sicut Cervus
+- At Home
+  - Shuffle and identify all modes so far
+  - All tensions in Dorian tonescape
+  - Note reading speed
+
+**Resources**
+
+- (Coming Soon)
+
+**EMP**
+
+- Shapes Level 10 (Changes) cont'd
+- Shapes Level 11 (2nd, 3rd, 4th Group Shapes)
+
+
+
+## Week 12 - Sicut Cervus
+
+**Overview**
+
+- In Class
+  - Sing w/Mr. Carey's class
+- At Home
+  - Practice your part for *Sicut Cervus*
+
+**Resources**
+
+- Palestrina: *Sicut Cervus* (Manual p.61)
+- [Recording: *Sicut Cervus* (individual parts)](/resources/sicut.html)
+
+**EMP**
+
+- Shapes Level 10 (Changes) cont'd
 
 🎶

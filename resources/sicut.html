@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Sicut Cervus</title>
+  </head>
+  <body>
+    <h2>Sicut Cervus</h2>
+    <br><br>
+    Soprano part:<br>
+    <audio id="audio1" controls
+      <source src="sicut_soprano.mp3" type="audio/mpeg">
+    </audio>
+    <br><br>
+    Alto part:<br>
+    <audio id="audio2" controls>
+      <source src="sicut_alto.mp3" type="audio/mpeg">
+    </audio>
+    <br><br>
+    Tenor part:<br>
+    <audio id="audio3" controls>
+      <source src="sicut_tenor.mp3" type="audio/mpeg">
+    </audio>
+    <br><br>
+    Bass part:<br>
+    <audio id="audio4" controls>
+      <source src="sicut_bass.mp3" type="audio/mpeg">
+    </audio>
+    <br><br>
+    Click track:<br>
+    <audio id="audio5" controls>
+      <source src="sicut_click.mp3" type="audio/mpeg">
+    </audio>
+    <br><br>
+    <button onclick="playAll()">Play All</button>
+    <br><br>
+
+    Use the score on p.61 of the Manual.<br>
+    You can listen to an individual part, or press "Play All" to hear all the parts together.
+    <br>You can also include or exclude the click track.
+    <br><br>
+
+    Adjust the volumes for each part manually or:<br>
+      <a href="#" onclick="soprano()">boost the soprano part</a><br>
+      <a href="#" onclick="alto()">boost the alto part</a><br>
+      <a href="#" onclick="tenor()">boost the tenor part</a><br>
+      <a href="#" onclick="bass()">boost the bass part</a><br><br>
+      <a href="#" onclick="resetVol()">reset the volume</a>
+
+    <script>
+      function playAll() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        var audio5 = document.getElementById("audio5");
+        audio1.currentTime = 0;
+        audio2.currentTime = 0;
+        audio3.currentTime = 0;
+        audio4.currentTime = 0;
+        audio5.currentTime = 0;
+        audio1.play();
+        audio2.play();
+        audio3.play();
+        audio4.play();
+        audio5.play();
+      }
+      function resetVol() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        audio1.volume = 0.8;
+        audio2.volume = 0.8;
+        audio3.volume = 0.8;
+        audio4.volume = 0.8;
+      }
+      function soprano() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        audio1.volume = 0.8;
+        audio2.volume = 0.2;
+        audio3.volume = 0.2;
+        audio4.volume = 0.2;
+      }
+      function alto() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        audio1.volume = 0.2;
+        audio2.volume = 0.8;
+        audio3.volume = 0.2;
+        audio4.volume = 0.2;
+      }
+      function tenor() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        audio1.volume = 0.2;
+        audio2.volume = 0.2;
+        audio3.volume = 0.8;
+        audio4.volume = 0.2;
+      }
+      function bass() {
+        var audio1 = document.getElementById("audio1");
+        var audio2 = document.getElementById("audio2");
+        var audio3 = document.getElementById("audio3");
+        var audio4 = document.getElementById("audio4");
+        audio1.volume = 0.2;
+        audio2.volume = 0.2;
+        audio3.volume = 0.2;
+        audio4.volume = 0.8;
+      }
+    </script>
+  </body>
+</html>
