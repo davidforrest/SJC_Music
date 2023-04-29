@@ -375,7 +375,7 @@
 - In Class
   - Sing w/Mr. Carey's class
 - At Home
-  - Practice your part for *Sicut Cervus*
+  - [Practice your part for *Sicut Cervus*](resources/FR_Music_At_Home_12.md)
 
 **Resources**
 
