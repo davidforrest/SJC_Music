@@ -347,7 +347,7 @@
 **Overview**
 
 - In Class
-  - Introduce Double LIght/Heavy (Major and Phrygian) modes (active)
+  - Introduce Double Light/Heavy (Major and Phrygian) modes (active)
   - note reading, 3 ticks at 60BPM, no pauses on skipped notes
   - Hear & sing changing modes in Herzliebster Jesu
   - Mode notes (positions in the diatonic order) & incidentals
@@ -359,7 +359,7 @@
 
 **Resources**
 
-- (Coming Soon)
+- Tonescapes: Double Light/Heavy modes
 
 **EMP**
 
@@ -368,12 +368,13 @@
 
 
 
-## Week 12 - Sicut Cervus
+## Weeks 12-15 - Sicut Cervus
 
 **Overview**
 
 - In Class
   - Sing w/Mr. Carey's class
+  - Add Triple Light/Heavy (Lydian and Locrian) modes
 - At Home
   - [Practice your part for *Sicut Cervus*](resources/FR_Music_At_Home_12.md)
 
@@ -381,6 +382,7 @@
 
 - Palestrina: *Sicut Cervus* (Manual p.61)
 - [Recording: *Sicut Cervus* (individual parts)](resources/sicut.html)
+- Tonescapes: Triple LIght/Heavy modes (all modes)
 
 **EMP**
 

@@ -147,6 +147,16 @@
 
 
 
+as you're adding modes:
+
+- the two modes you're learning with pitches inside them
+- tonescapes for all the modes so far so you can shuffle, get inside, and ID them
+- all the pitches for all the modes so far in the neutral tonescape.
+
+then, finally, drop the tonescape for all pitches.
+
+
+
 ### The Musical Staff and Gregorian Notation
 
 **Location**
