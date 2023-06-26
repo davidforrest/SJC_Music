@@ -147,16 +147,6 @@
 
 
 
-as you're adding modes:
-
-- the two modes you're learning with pitches inside them
-- tonescapes for all the modes so far so you can shuffle, get inside, and ID them
-- all the pitches for all the modes so far in the neutral tonescape.
-
-then, finally, drop the tonescape for all pitches.
-
-
-
 ### The Musical Staff and Gregorian Notation
 
 **Location**
@@ -394,7 +384,6 @@ then, finally, drop the tonescape for all pitches.
   - Micrologus
   - Prologus antiphonarii sui
   - Epistola de ignoto cantu
-
 - *Odo of Cluny (or Odo of Arezzo?)*
   - *Musica enchiriadis*
     - listed in Swentzell's compilation as the source of Guido's "letters of the monochord," but seems this was actually from the Dialogus. Also neither of these is necessarily by Odo.
@@ -407,7 +396,7 @@ then, finally, drop the tonescape for all pitches.
     - \#rr Pseudo-Odo of Cluny. n.d. 1998. “Dialogue on Music.” In Source Readings in Music History, revised edition, edited by Oliver Strunk and Leo Treitler, 198–210. New York: W. W. Norton.
 - From West intro: For a fuller review see Neubecker. 16-38. Of the authors and works I ~ave mentioned, the following are translated, with excellent introductions and notes, in Barker, GMW: the pseudo-Aristotelian Problems (selection). Arisoxenus. Euclid. Nichomacus, Ptolemy, pseudo-Plutarch, Athenaeus (selection, Aristides Quintilanus
 - Aristoxenus’ Elementa Harmonica,
-  - Of especial importance is Aristoxenus ofTarentum, a pupil ofAristotle. A number ofhismany works were to do wuh music m one aspect or another. Nearly all of them are lost regrettably, though valuable fragments are preserved by Athenaeus and others. What has survived in a more continuous state consists of a few pages from his Elements of Rhythm and three books of Har-monics, the first of which represents a different treatise from the rest; the third book breaks off in mid-argument. 
+  - Of especial importance is Aristoxenus of Tarentum, a pupil of Aristotle. A number ofhismany works were to do wuh music m one aspect or another. Nearly all of them are lost regrettably, though valuable fragments are preserved by Athenaeus and others. What has survived in a more continuous state consists of a few pages from his Elements of Rhythm and three books of Har-monics, the first of which represents a different treatise from the rest; the third book breaks off in mid-argument. 
   - 'Harmonics·. in ancient terminology, is the science dealing with the ordered arrangement of notes in scales and the relationships between scales: It was not concerned like modern harmonic theory with chords and chord-successions. 
   - Aristoxenus' harmonic theory was highly influential, and it is regurgitated in several works written probably between the second and fifth centuries AD, where lost portions of Aristoxenus' exposition are also reflected. These works are the Introductions to Harmonics of Cleonides and Gau- dentius, the Introductions to Music ofBacchius and Alypius, and the much longer and more wide-ranging work On Music by Aristides Quintilianus.Cleonides' lucid handbook, formerly misattributed to Euclid, is the most purely Aristoxenian.
 - Euclid Sectio Canonis or Division of the kanon
@@ -423,8 +412,7 @@ then, finally, drop the tonescape for all pitches.
   - it is a polemic agains tthe view that music has ethical effects on the listener. 
 - Sextus Empiricus (ADc. 200) argues similarly in his essay Against the Musicians, which forms the sixth book of his Against the Scientists. 
 - The dialogue On Music which comes down to us as a work of Plutarch's, but is certainly not by him, 
-  - is a source of unique value for the early history of Greek music, or at least for what was believed about it in the Classi- cal period. Though itself late-perhaps of about Athenaeus' time-it cites excellent Classical authorities such as Glaucus of Rhegium (c.400 BC, author of a book On the Ancient Poets and Musicians), Heraclides Ponticus (mid-fourth century BC), and Anstoxenus (lost writings), and it paraphrases substantial excerpts from them m undi-
-  - gested form.
+  - is a source of unique value for the early history of Greek music, or at least for what was believed about it in the Classi- cal period. Though itself late-perhaps of about Athenaeus' time-it cites excellent Classical authorities such as Glaucus of Rhegium (c.400 BC, author of a book On the Ancient Poets and Musicians), Heraclides Ponticus (mid-fourth century BC), and Anstoxenus (lost writings), and it paraphrases substantial excerpts from them m undigested form.
 - There is the Chrestomathy of the fifth-century Neoplatonist Proclus, a history of poetry of which half survives in an epitome by Photius; and a brief discussion of tragedy by Michael Psellus (eleventh century), not published until I963 by R. Browning
 - Many elements of Greek theory were taken over by the Arab writers on music, the most important of whom is Abu n-Nasr Mulhammad ibn Muhlammad ibn Tarlhan ibn 'Uzlag al-Farabi, popularly known as AI-Farabi (c. 870-950).
 - Martianus' De nuptiis Philologiae et Mercurii is a survey of the liberal arts. The treatment of music, which occupies the ninth book, is based primarily on Aristides Quintilianus. 
