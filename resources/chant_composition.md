@@ -23,12 +23,12 @@
 
 ​	**To compose your chant:**
 
-- Use the [Music Calligraphy Kit](https://davidforrest.github.io/FR_Music/resources/calligraphy_kit.html), which current lives in our classroom (not at Switchboard as usual). Bring your friends!
+- Use the [Music Calligraphy Kit](https://davidforrest.github.io/FR_Music/resources/calligraphy_kit.html), which currently lives in our classroom (not at Switchboard as usual). Bring your friends!
 - Choose a short (chant-length) text that you like, and break it into syllables. Some possibilities:
   - A favorite poem or song lyrics
   - The St. John’s motto: *Facio liberos ex liberis libris libraque*
   - The text of one of the chants in the Manual
-- Choose a final (an anchor note) for your chant. First turn on the [Tonescape](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), then choose one of the following notes to be your final. Your chant should end on this note.
+- Choose a final (an anchor note) for your chant. First turn on the [Tonescape](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3), then choose one of the following notes to be your final, which will define the mode of your chant. Your chant should end on this note.
 
   - [Option 1](https://szynalski.com/tone#G3,v0.75) (G)
   - [Option 2](https://www.szynalski.com/tone-generator/#D3,v0.75) (D)
@@ -38,5 +38,5 @@
 - Start by singing along with the tonescape to compose your chant. Once it starts sounding good, notate what you sing.
 
   - Consider the range of your chant. It could be as few as 5 notes (between the final and reciting tone), or as many as 9, if you use the full range from the space below the staff to the space above it. You’ll have to place your final on a line or space so that the range of your chant will fit on the staff. 
-- Have fun, and by all means, feel free to go all out decorating your manuscript!
+- Have fun, and by all means, feel free to go all out illuminating (decorating) your manuscript!
 
