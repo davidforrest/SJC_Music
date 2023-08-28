@@ -426,6 +426,20 @@ Invert to 3:2, 3:4
 
 The crux of finding the difference between two ratios is that the first ratio becomes the new whole.
 
+3:2, 4:3
+
+3\*3 : 2\*4
+
+So in the first ratio, the antecedent represents the whole string, and the consequent is the part of that string that's sounding.
+
+So we want the consequent to become the new whole string, and to know what ratio, when taken of that new whole, will produce the second ratio of the whole string.
+
+In the second ratio, the consequent is also the part that's sounding.
+
+**gosh, we want to find a common multiple for the consequent of the second ratio, and the antecedent of the first ratio, because this will equalize them in the right way.** 
+
+
+
 Then the consequent of the second ratio is equal to that new whole.
 
 But since both ratios are still expressed in terms of the original whole string,
