@@ -29,20 +29,25 @@
 - Wk5 prep
   
   - continue practicing tonescapes L17
-  
 - Wk5 class
   - Introduce modes (tonescapes L19)
   - modes: Hodie starting v. final (also reciting tone)
-  - read chants in different modes (Dorian, Dominant, Minor)
 - Wk6 prep
+  - practice tonescapes L19 (3 modes)
   - odo/guido note name readings
-  - Chant composition activity
+  - Chant composition activity (before note naming)
 - Wk6 class
-  - Sing original chants
-  - Three note naming systems
+  - Sing original chants, read chants in different modes (Dorian, Dominant, Minor)
+  - Three note naming systems (from Odo/Guido readings, **Ut Queant Laxis**)
+  - Hodie monochord activity: clef & accidentals
   - Tonescapes: add 4th and 5th
 - Wk7 prep
+
+  - Chant composition (delayed from wk6)
+
 - Wk7 class
+  - Sing original chants (delayed from wk6)
+  - Note reading sheet?
   - Tonescapes: add Major & Phrygian modes (& light/heavy tension names)
   - Rhythmic notation, early polyphony, possibly a round.
 - Wk8 prep
