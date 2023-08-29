@@ -1,43 +1,43 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <link href="../styles.css" rel="stylesheet" type="text/css" />
-    <title>Viderunt Omnes Aeterna</title>
-  </head>
-  <body>
-    <div>
-      <h2>Viderunt Omnes Aeterna</h2>
+<head>
+  <meta charset="UTF-8" />
+  <link href="../styles.css" rel="stylesheet" type="text/css" />
+  <title>Viderunt Omnes Aeterna</title>
+</head>
+<body>
+  <div>
+    <h2>Viderunt Omnes Aeterna</h2>
 
-      <br>
+    <br>
 
-      <br> Viderunt Omnes (Benedictines of St. Martin Beuron) <br>
-      <audio id="audioControl1" controls>
-        <source src="viderunt_EN73kO2_PZA.mp3" type="audio/mpeg" />
-      </audio>
+    <br> Viderunt Omnes (Benedictines of St. Martin Beuron) <br>
+    <audio id="audioControl1" controls>
+      <source src="viderunt_EN73kO2_PZA.mp3" type="audio/mpeg" />
+    </audio>
 
-      <br>
+    <br>
 
-      <br> Viderunt Omnes (Tonus Peregrinus) <br>
-      <audio id="audioControl2" controls>
-        <source src="viderunt_Ioz6gtDxfmU.mp3" type="audio/mpeg" />
-      </audio>
+    <br> Viderunt Omnes (Tonus Peregrinus) <br>
+    <audio id="audioControl2" controls>
+      <source src="viderunt_Ioz6gtDxfmU.mp3" type="audio/mpeg" />
+    </audio>
 
-      <br>
+    <br>
 
-      <br> Viderunt Omnes (Amarcord) <br>
-      <audio id="audioControl3" controls>
-        <source src="viderunt_TEQw2BufNj8.mp3" type="audio/mpeg" />
-      </audio>
+    <br> Viderunt Omnes (Amarcord) <br>
+    <audio id="audioControl3" controls>
+      <source src="viderunt_TEQw2BufNj8.mp3" type="audio/mpeg" />
+    </audio>
 
-      <br>
-      <br>
-      <br>
+    <br>
+    <br>
+    <br>
 
-      <button onclick="playRandomAudio()">Play Eternally</button>
+    <button onclick="playRandomAudio()">Play Eternally</button>
 
-    </div>
-    <script>
+  </div>
+  <script>
     // Get all the audio elements with id starting with "audioControl"
     var audioControls = Array.from(document.querySelectorAll("[id^='audioControl']"));
 
@@ -50,43 +50,33 @@
 
     // Define a function to play a random audio control
     function playRandomAudio() {
+      // Remove the previous "ended" event listener to prevent accumulation
+      if (currentAudioControl !== null) {
+        currentAudioControl.removeEventListener("ended", playRandomAudio);
+      }
 
       // Generate a random index to choose a random audio control from the array
       var randomIndex = Math.floor(Math.random() * audioControls.length);
 
-      // If the random index is the same as the current audio index and the audio hasn't played twice yet,
-      // restart the audio and increase the number of plays
-      if (randomIndex === currentAudioIndex && numPlays < 2) {
-        numPlays++;
-        currentAudioControl.currentTime = 0; // Restart the audio
+      // Rest of your playRandomAudio() function code
+
+      var audioControl = audioControls[randomIndex];
+      numPlays = 1;
+
+      // Pause and restart the current audio and update the current audio control variable
+      if (currentAudioControl !== null) {
+        currentAudioControl.pause();
+        currentAudioControl.currentTime = 0;
       }
 
-      // If the random index is the same as the current audio index and the audio has played twice already,
-      // recursively call the function to choose a new random audio control
-      else if (randomIndex === currentAudioIndex) {
-        playRandomAudio();
-      }
+      // Play the new audio and update the current audio and its control variables
+      audioControl.play();
+      currentAudioControl = audioControl;
+      currentAudioIndex = randomIndex;
 
-      // If the random index is different from the current audio index, choose a new audio control
-      else {
-        var audioControl = audioControls[randomIndex];
-        numPlays = 1;
-
-        // Pause and restart the current audio and update the current audio control variable
-        if (currentAudioControl !== null) {
-          currentAudioControl.pause();
-          currentAudioControl.currentTime = 0;
-        }
-
-        // Play the new audio and update the current audio and its control variables
-        audioControl.play();
-        currentAudioControl = audioControl;
-        currentAudioIndex = randomIndex;
-
-        // Add an event listener to play the next audio when the current audio finishes
-        audioControl.addEventListener("ended", playRandomAudio);
-      }
+      // Add an event listener to play the next audio when the current audio finishes
+      audioControl.addEventListener("ended", playRandomAudio);
     }
-    </script>
-  </body>
+  </script>
+</body>
 </html>
