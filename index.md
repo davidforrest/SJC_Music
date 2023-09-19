@@ -89,7 +89,7 @@
 
 #### Practica
 
-- Organum Practicum (p.30) 
+- Organum Practicum (M30) 
 - [Words and Music](words-and-music/wk2) - Week 2
 
 
