@@ -15,5 +15,18 @@ If you can't see the PDF below, you can <a href="words_and_music_2.pdf" target="
 	width="100%"
 	height="500px"
 />
+<br>
+
+**Next week's prompt:**
+
+Choose a single phrase, sentence, or thought that captures your interest from this week's collected pages and unpack it. You can choose from your own page or from somebody else’s. See what aspects of music you can draw out.
+
+As an example, “a dark leather-red sound” led us to talk about: instrumentation, mood/vibe, timbre, performance, articulation, sound production, emotion, pitch, materiality, body/physicality, resonance, dynamics, energy…
+
+You might choose to cast a wide net, or to go into an aspect or two in detail, so far as you can in a single page. As you do this, think about the different mode(s) of writing each aspect leads you into. Technical writing? Figurative writing? Writing that describes an experience, or creates one for your reader?
+
+And don’t worry about using any specific technical vocabulary. Just describe what you notice as best you can.
+
+<br>
 
 Go on to [Week 3](../wk3)

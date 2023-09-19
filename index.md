@@ -48,7 +48,7 @@
 - Sing w/Mr. Kingston's class: Hodie & Viderunt Omnes
 - Pass a note around the table
 - Viderunt Omnes Calligraphy
-- Words and Music (one page writing)
+- [Words and Music](words-and-music/wk1) - Week 1
 - Keyboard as a Listening Tool (Ubi Caritas)
 
 
@@ -90,6 +90,7 @@
 #### Practica
 
 - Organum Practicum (p.30) 
+- [Words and Music](words-and-music/wk2) - Week 2
 
 
 
@@ -130,6 +131,7 @@
 
 - Sing Sicut Cervus
 - Find & Play Motivic Units
+- [Words and Music](words-and-music/wk3) - Week 3
 
 
 

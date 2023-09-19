@@ -17,5 +17,13 @@ If you can't see the PDF below, you can <a href="words_and_music_1.pdf" target="
 	width="100%"
 	height="500px"
 />
+<br>
+
+**Next week's prompt:**
+
+Think of a piece of music that you know intimately, and try to recreate it in words.
+
+<br>
 
 Go on to [Week 2](../wk2)
+
