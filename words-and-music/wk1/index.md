@@ -10,9 +10,12 @@ Some questions to keep in mind as you read, that weave their way through these p
 
 <br>
 
+If you can't see the PDF below, you can <a href="words_and_music_1.pdf" target="_blank">open it in a new tab</a>.
 <embed
 	src="words_and_music_1.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
 />
+
+Go on to [Week 2](../wk2)

@@ -8,6 +8,7 @@ How does the language&mdash;and your experience of the language&mdash;change for
 
 <br>
 
+If you can't see the PDF below, you can <a href="words_and_music_2.pdf" target="_blank">open it in a new tab</a>.
 <embed
 	src="words_and_music_2.pdf"
 	type="application/pdf"
@@ -15,3 +16,4 @@ How does the language&mdash;and your experience of the language&mdash;change for
 	height="500px"
 />
 
+Go on to [Week 3](../wk3)
