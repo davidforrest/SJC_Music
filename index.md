@@ -169,4 +169,4 @@
 #### Source Readings
 
 - Vincenzo Gallilei: *Dialogo Della Musica* (M68-75)
-- Selection from Ovid: *Metamorphoses*, Book X
+- Selections from Ovid: *Metamorphoses*, Books X-XI
