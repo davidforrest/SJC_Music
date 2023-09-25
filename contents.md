@@ -44,7 +44,7 @@
 
 [*Chaconne* (from *Violin Partita No. 2 in D Minor*) - J.S. Bach](musical_works/chaconne_bach)
 
-*L'Orfeo* - Monteverdi
+[L'Orfeo: Favola in Musica - Claudio Monteverdi](musical_works/orfeo_monteverdi)
 
 
 

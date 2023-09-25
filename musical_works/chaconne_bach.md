@@ -30,7 +30,8 @@ Midori Goto
 
 <br><br>
 
-Nathan Milstein w/score
+Nathan Milstein w/scrolling score
+<br>(chromatic lament gesture starting at 1:14)
 <style>
 .embed-container {
     position: relative;
@@ -57,3 +58,27 @@ Christophe Poppen
 <audio controls>
 <source src="recordings/chaconne_bach_poppen_hilliard.mp3" type="audio/mpeg" />
 </audio>
+
+<br><br>
+
+### Score
+
+Bach's Manuscript, available online <a href="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN864018401&PHYSID=PHYS_0026&DMDID=DMDLOG_0004&view=picture-download" target="_blank">here</a>.
+<embed
+	src="scores/chaconne_bach_manuscript.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+<a href="scores/chaconne_bach_manuscript" target="_blank">Open in a new tab</a>.
+
+<br><br>
+
+Modern transcription
+<embed
+	src="scores/chaconne_bach.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+<a href="scores/chaconne_bach" target="_blank">Open in a new tab</a>.

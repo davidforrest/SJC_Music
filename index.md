@@ -159,10 +159,14 @@
 
 #### Musical Works
 
-- L'Orfeo - Claudio Monteverdi
+- [L'Orfeo: Favola in Musica - Claudio Monteverdi](musical_works/orfeo_monteverdi)
+- Madrigal: *Aspro core et selvaggio* - Adrian Willaert
+- Motet: Timor et tremor - Roland de Lassus
+- Selected Madrigals - Carlo Gesualdo
 
 
 
 #### Source Readings
 
-- 
+- Vincenzo Gallilei: *Dialogo Della Musica* (M68-75)
+- Selection from Ovid: *Metamorphoses*, Book X
