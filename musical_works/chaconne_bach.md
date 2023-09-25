@@ -1,9 +1,9 @@
-## V. Chaconne (c. 1717-1720)
+## Chaconne (c. 1717-1720)
 by J.S. Bach (1685-1750)
 
 from *Violin Partita No. 2 in D minor*
 
-<br><br>
+<br>
 
 ### Recordings
 
@@ -50,3 +50,10 @@ Nathan Milstein w/score
 <div class='embed-container'>
   <iframe src='https://www.youtube.com/embed/U2UyC2VcOj0?rel=0' frameborder='0' allowfullscreen></iframe>
 </div>
+
+<br><br>
+
+Christophe Poppen
+<audio controls>
+<source src="recordings/chaconne_bach_poppen_hilliard.mp3" type="audio/mpeg" />
+</audio>

@@ -8,6 +8,7 @@
 - [Week 2 - Early Polyphony](#week-2---early-polyphony)
 - [Week 3 - Motivic Units](#week-3---motivic-units)
 - [Week 4 - The Lament Gesture](#week-4---the-lament-gesture)
+- [Week 5 - L'Orfeo](#week-5---lorfeo)
 
 
 
@@ -110,7 +111,7 @@
 
 - cont'd: Machaut, Kyrie from Messe de Notre Dame (M36-42)
 - Palestrina, Sicut Cervus (M46-51)
-- Juan Arañés, Chaconne: "A la vida bona"
+- [*Chaconne: A la vida bona* - Juan Arañés](musical_works/chacona_aranes)
 - Monteverdi, Zefiro torna e di soavi accenti
 
 
@@ -137,7 +138,7 @@
 
 #### Extras
 
-- 
+- <a href="resources/chacona_chaconne_loop.mp3" target="_blank">Chacona-Chaconne Loop</a>
 
 
 
@@ -146,7 +147,22 @@
 
 #### Musical Works
 
-- Dowland, Lament: Flow My Tears
-- Monteverdi, Lamento della ninfa
-- Purcell, When I am laid in earth (from Dido and Aeneas)
-- Bach, Chaconne from Partita no. 2 in d minor for Violin
+- [*Flow My Tears* - John Dowland](musical_works/flow_my_tears_dowland)
+- [*Lamento della ninfa* - Monteverdi](musical_works/lamento_della_ninfa_monteverdi)
+- [*When I am laid in earth* (from *Dido and Aeneas*) - Henri Purcell](musical_works/didos_lament_purcell)
+- [*Chaconne* (from *Violin Partita No. 2 in D Minor*) - J.S. Bach](musical_works/chaconne_bach)
+
+
+
+### Week 5 - L'Orfeo
+
+
+#### Musical Works
+
+- L'Orfeo - Claudio Monteverdi
+
+
+
+#### Source Readings
+
+- 

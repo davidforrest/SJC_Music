@@ -27,6 +27,8 @@ You might choose to cast a wide net, or to go into an aspect or two in detail, s
 
 And don’t worry about using any specific technical vocabulary. Just describe what you notice as best you can.
 
+![wk3 prompt](wk3_prompt.jpg)
+
 <br>
 
 Go on to [Week 3](../wk3)
