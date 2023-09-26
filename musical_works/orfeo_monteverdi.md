@@ -130,7 +130,7 @@ English Baroque Soloists, John Eliot Gardiner <a href="https://music.apple.com/u
 
 ### Score
 
-Full score is available in the Library or Bookstore.
+Full score (ed. Denis Stevens) is available in the Library or Bookstore.
 
 <br><br>
 
@@ -153,3 +153,14 @@ Score Excerpts (Manual pp. 78-98)
 	height="500px"
 />
 <a href="../modular_manual/2022-23_SO/99-106_Orfeo_Score_Excerpts.pdf" target="_blank">Open in a new tab</a>.
+
+<br><br>
+
+Manuscript 1st ed. From <a href="https://imslp.org/wiki/L'Orfeo%2C_SV_318_(Monteverdi%2C_Claudio)" target="_blank">IMSLP</a>.
+<embed
+	src="scores/orfeo_manuscript_1ed.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+<a href="scores/orfeo_manuscript_1ed.pdf" target="_blank">Open in a new tab</a>.
