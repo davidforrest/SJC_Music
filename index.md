@@ -168,5 +168,11 @@
 
 #### Source Readings
 
-- Vincenzo Gallilei: *Dialogo Della Musica* (M68-75)
-- Selections from Ovid: *Metamorphoses*, Books X-XI
+- [Vincenzo Gallilei: *Dialogo Della Musica* (M68-75)](modular_manual/2022-23_SO/68-75_Gallilei_Dialogo_Excerpt.pdf)
+- [Selections from Ovid: *Metamorphoses*, Books X-XI](readings/Ovid_Orpheus.pdf)
+
+
+
+#### SJC Resources
+
+- [Monteverdi, Monody, and L’Orfeo (Manual pp. 76-77)](modular_manual/2022-23_SO/76-77_Monteverdi_Monody_Orfeo.pdf)

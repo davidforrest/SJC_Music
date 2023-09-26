@@ -130,4 +130,26 @@ English Baroque Soloists, John Eliot Gardiner <a href="https://music.apple.com/u
 
 ### Score
 
-Libretto (tr. Ms. Stickney) on Manual pp. 78-98
+Full score is available in the Library or Bookstore.
+
+<br><br>
+
+Libretto tr. Ms. Stickney (Manual pp. 78-98)
+<embed
+	src="../modular_manual/2022-23_SO/78-98_Orfeo_Libretto_tr_Stickney.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+<a href="../modular_manual/2022-23_SO/78-98_Orfeo_Libretto_tr_Stickney.pdf" target="_blank">Open in a new tab</a>.
+
+<br><br>
+
+Score Excerpts (Manual pp. 78-98)
+<embed
+	src="../modular_manual/2022-23_SO/99-106_Orfeo_Score_Excerpts.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+<a href="../modular_manual/2022-23_SO/99-106_Orfeo_Score_Excerpts.pdf" target="_blank">Open in a new tab</a>.
