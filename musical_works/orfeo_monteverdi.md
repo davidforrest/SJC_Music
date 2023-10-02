@@ -52,8 +52,6 @@ by Claudio Monteverdi (1567-1653)
 <br><br>
 
 2002 version directed by Jordi Savall
-<br>w/subtitles, missing ~last half hour
-<br>DVD on reserve in the Library
 <style>
 .embed-container {
     position: relative;
@@ -71,31 +69,7 @@ by Claudio Monteverdi (1567-1653)
   }
 </style>
 <div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/jUep3sqe35o?rel=0' frameborder='0' allowfullscreen></iframe>
-</div>
-
-<br><br>
-
-2002 version directed by Jordi Savall
-<br>complete, but without subtitles
-<style>
-.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-<div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/0mD16EVxNOM?rel=0' frameborder='0' allowfullscreen></iframe>
+  <iframe src='https://www.youtube.com/embed/lHDjJCRucIM?rel=0' frameborder='0' allowfullscreen></iframe>
 </div>
 
 <br><br>
