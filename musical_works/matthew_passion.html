@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>St. Matthew Passion (1727)</title>
+  </head>
+
+  <body>
+
+    <h2>St. Matthew Passion (1727)</h2>
+    by J.S. Bach (1685-1750)
+
+    <br><br><br>
+
+    <div id="video-container">
+        <iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/Sl5Zc3Qrz2I?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <br>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 5)"><strong>1. Chorus</strong></a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 80)">m.17 Chorus I Entrance</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 121)">m.26 Chorus II Entrance</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 140)">m.30 Lamb Chorus</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 177)">m.38 G Major Orchestra</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 204)">m.44 Lamb Entrance no.2</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 240)">m.53 G Pedal</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 262)">m.57 [D] Staccato</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 283)">m.61 Lamb Entrance no.3</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 327)">m.72 [F]</a></p>
+
+      <p><a href="javascript:void(0);" style="margin-left: 20px;" onclick="loadAndPlayVideo('Sl5Zc3Qrz2I', 372)">m.82 [G]</a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('pcQrqPCsqIs', 0)"><strong>2. Recitative</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('KlxOQ9VVRqY', 0)"><strong>3. Chorale - Herzliebster Jesu</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('W8zxEHjtQ6Y', 0)"><strong>4. Recitative</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('W8zxEHjtQ6Y', 21)"><strong>5. Chorus</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('W8zxEHjtQ6Y', 37)"><strong>6. Recitative</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('W8zxEHjtQ6Y', 66)"><strong>7. Chorus</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('W8zxEHjtQ6Y', 96)"><strong>8. Recitative</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('1bX4X1zI7kA', 0)"><strong>9. Recitative (Alto)</strong></a></p>
+
+    <p><a href="javascript:void(0);" onclick="loadAndPlayVideo('ex9DRRK6Qcc', 0)"><strong>10. Aria (Alto)</strong></a></p>
+
+
+    <br><br><br>
+
+
+
+
+
+    <script>
+        var player;
+
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('youtube-video', {
+                events: {
+                    'onReady': onPlayerReady
+                }
+            });
+        }
+
+        function onPlayerReady(event) {
+            // No need to autoplay on page load
+        }
+
+        function loadAndPlayVideo(videoId, timestamp) {
+            if (player) {
+                player.loadVideoById({
+                    videoId: videoId,
+                    startSeconds: timestamp,
+                    suggestedQuality: 'default'
+                });
+                player.playVideo();
+            }
+        }
+    </script>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </body>
+</html>

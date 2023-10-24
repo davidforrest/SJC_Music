@@ -51,7 +51,7 @@ by Claudio Monteverdi (1567-1653)
 
 <br><br>
 
-2002 version directed by Jordi Savall
+2002 production directed by Jordi Savall
 <style>
 .embed-container {
     position: relative;
