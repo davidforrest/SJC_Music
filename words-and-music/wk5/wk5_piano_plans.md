@@ -45,7 +45,13 @@ Thank you.
 1. Technically, I'm most hopeful to improve on keeping time. I'm getting to the point where I can read the notes and I can memorize the way the song goes, but to be able to play in a smooth and flowing way is still on the horizon. Feeling-wise, I am most attracted to those piano solos that feel like sad asides that people are just voyeuristically observing, I like sad piano songs that the pianist seems completely involved in.
 2. I've been looking all week. There's this piano cover of a Kanye song called After You which I really like but it's a bit short and repetitive (this could be a warmup song). I always liked Chopin and his Nocturne No. 2 (in E-flat major, op. 9 no.2), that seems like a classic first piano song. Otherwise, I've scoured the ends of the earth for something I'd like to learn and haven't found anything (I guess I don't listen to anything with piano). I'd really love to do something by David Bowie or Nina Simone, but haven't found any ideal song to do, and they might be too challenging. Anyway, still on the hunt.
 
-[https://www.youtube.com/watch?v=NlPf8gYrQGE](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNlPf8gYrQGE&data=05|01|David.Forrest@sjc.edu|d54863652ade497ae72108dbc1d2d1e0|f39b2a6e912b4008ab21cf8340cfe999|1|0|638316883480979761|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|3000|||&sdata=XbboSG%2BZWbjZ11fmgd5OTJkGZfmPGhf9EzP%2BCualh20%3D&reserved=0) - The Kanye one
+
+
+[Piece](https://www.youtube.com/watch?v=NlPf8gYrQGE)
+
+[Tutorial](https://www.youtube.com/watch?v=-3Lc6Vv6eio)
+
+[Original](https://www.youtube.com/watch?v=RKL-2S7rhGA)
 
 
 
@@ -141,4 +147,46 @@ Raindrops - Chopin
 Learning piano in music class sounds like a big idea! For the first question, I would think being able to play a song on a piano smoothly will bring a sense of self-value fulfillment; to be more specific, from knowing nothing about the piano to being able to perform a whole song, it would directly show the fruit of my working and the progress of practicing. If I could achieve this by practicing for the whole semester, it would be a lovely thing to play Fur Elise by Beethoven successfully at the end of the semester.
 
 
+
+---
+
+
+
+**Mx. Ormsby**
+
+
+
+During our meeting today, Mx. Ormsby decided that they wanted to learn some Joplin, specifically, "The Entertainer." I got them a simplified version of the sheet music.
+
+
+
+---
+
+
+
+**Mr. Franken**
+
+[Eleanor Ribgy](https://www.youtube.com/watch?v=HuS5NuXRb5Y)
+
+
+
+---
+
+
+
+
+
+**Mr. Ahmed** 
+
+
+
+[MuseScore paywall notation](https://musescore.com/musicophilearup/mamo-chitte-niti-nritye-rabindra-sangeet-piano-solo-version-arrangement-by-arup-paul)
+
+[Bengali Notation](https://www.geetabitan.com/lyrics/rs-m/mamo-chitte-niti-nritte-bengali-notation.html) (melody + lyric)
+
+Sa Re Ga Ma Pa Dha Ni Sa
+
+​	Komol Ga (flat)
+
+​	Tibra Ma (augmented)
 
